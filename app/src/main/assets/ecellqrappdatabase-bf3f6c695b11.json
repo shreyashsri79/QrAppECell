@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ecellqrappdatabase",
+  "private_key_id": "bf3f6c695b1160b64ebf88115f80fe564b381556",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCn20WMKTZoVzSX\nls4q4peIiDST4d7eBIS3RX9zgJntQmzaNoe4ONvfdA7+MehCHGLYKhw4M3d7AUYf\nejsVXWUle+dC+7zXTTCGkrBNLiep5JyYnz1jAqTeMMkQ5c1PnPg6JrPrl1jheQ8M\nY4cEiTqxbuta1FTVyHkdRqQiCzpPVyIsGplu5VLSAf7tkcREpna7Qdc8nbKmVV8p\ntHrS33XH7O+9MmqHFd9kOwtpktmFmfooxhiywAd6iQGn/c8jFl4d1fysVxTYXapn\npz+BL/QaRIKcI7u3HY8KVdsJ5piCbhGGP4DK2GX0qiFsHuWK/MfSl/pACG08Ff0X\nPumP5ZejAgMBAAECggEAFgMg9Vwji2lW4e41LoCKjgK2n7ywxP1jXhlaDmPgoQbj\nTsvJ3onDo7kM4kmEg27viMN08esl5wE9beanQDUAN6XY/PrAQp0Xw6i8P/171sFp\nG8ao09wb53C5srfqxbRNr7/gO6vxoZfbi6yy9GWpRxgcUHakgr3dzCNgZiqCGgya\ncV/WZ9pMxkIkCF7AFMRIeMh2qnpd+a4bfVXURIIsSRqYO4cjQZJWMM2SeyYsu+DW\nwUK81ikp7MQM7aquFLrGoZoTY9DgcwdkQ9d1zNrttlfWtlVJZXh+wjD533YbsFPg\n3laiqsnhSveStGUBAkMnLeDfsYoodeJ4c9xYPK2WIQKBgQDUmXzcJCqpI3F6SLhn\np6RZ2FX0LOc0z7hXKP9OlATdtwwMCaawyOuYjED5ikDKUr3PRHbSxJjqfXETbZ5Y\nhku9ZoQGffdFQrA5bTkrDal18A1QYxa76r+igZazsYMIEMwiURggd97h9D6BvjIZ\nRYKYRG7DHt7PTpF9Ec23bqJSMwKBgQDKH4Aq26RfkyxBkW8yeBTP3/v/kcCV9uZu\ndQRHfZokE6b5LyGZxSW/Ck3fStKI098yZ7ctcDufwYeuUDp5raKppBYhLVLipCsv\nA0ZnfPxiEU6ghO2r2IDeBvt17i3BH3Fs33D/80hFLOL15OGBrTiIJqtRcvFCgAW5\n6FOOBbmU0QKBgQCXjtP0G9RNv3amNjE/s8L2ScL8zwYEIBDKEe/vlJXjeRqdekPa\nw2Ew3stzGZwWn+WwXJ5Yos5gXAzATOUVNqfH3c1A04vzVBdM2RBoINUtvnO/WuRa\nEn+K2dcVQvamSVM9I5KPkuTRL81fsLcGTQdMhXxwnRE5uEj/YDHHEpelAQKBgQCU\nTWSnDZ2fmsbAHUuvhjgPBlNKA9GAtzYAGc/X/KqaiejbsN9AikzVzWOx0J6FUp/T\nxhG7PzwgTcmV9rvRB7vwKLssAKtuK/KbfhWsXSJ5eiVs1dvlWOfFAO6EawwbRUze\nC1xIEGMYjoTA0v07PrPaAjV1f5bRqkmJTJPyAvVV4QKBgQDFWQHkPwhjwCelMSFu\n5PRk8Lon3wcIEyELqdqMYjnLl+BujQuCF8BddesuO0nciO4FuAevCHB0kE2/aaaw\nlO/ZzdM8kgOn/fQ9GYZ5a5mnV3Rn5uwptQprRjXCgTTdr8LvzoF7rqy0CYVJlNoH\nBPXXEHVh5JqjDxjYzqOY+cFWHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shreyash@ecellqrappdatabase.iam.gserviceaccount.com",
+  "client_id": "117815974842667908846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shreyash%40ecellqrappdatabase.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
